@@ -14,6 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+This APP is designed to Ease the struggle of People's transport by sharing information about the current transport situation.
+Meaning if it is corwded or not, are the roads open or closed.
+## Sharing is Caring
 
  ##Group Members          ##ID
 Amanuel Ewnetu       ATR/8353/10
